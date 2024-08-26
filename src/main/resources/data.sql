@@ -1,0 +1,1 @@
+INSERT INTO question (id, difficulty_level, option1, option2, option3,option4,question_title,right_answer,category) VALUES (1, 'Low', 'Delhi','Mumbai','Bbsr','Ctc','Capital of India','Delhi','General');
